@@ -1,0 +1,11 @@
+Program to subtract numbers
+#include<stdio.h>
+int main()
+{
+int a,b,s;
+printf("enter the values of a and b");
+scanf("%d%d", &a, &b)'
+printf("the answer is %d", s);
+return 0;
+}
+
