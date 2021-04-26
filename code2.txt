@@ -4,8 +4,11 @@ int main()
 {
 int a,b,s;
 printf("enter the values of a and b");
-printf("the answer is %d", s);
 printf("enter the number");
+for(i=0;i<=5;i--)
+{
+print numbers;
+}
 return 0;
 }
 
